@@ -12,6 +12,6 @@ seat. After that, each person takes the assigned seat if it is unoccupied, and o
 seats at random otherwise. What is the probability that the last person to board gets to sit in
 his assigned seat?
 
-Here we simulated the puzzel and ran it multiple times averaging the results. X axis is the number of times the simulation was ran and in the Y axis is the averaged of the result or varioance of each of those runs. Notice that it begins to converge on 0.5, as expected.
+Here we simulated the puzzle and ran it multiple times averaging the results. X axis is the number of times the simulation was ran and in the Y axis is the averaged of the result or varioance of each of those runs. Notice that it begins to converge on 0.5, as expected.
 
 ![Alt text](N1.png)

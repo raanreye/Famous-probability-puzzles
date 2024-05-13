@@ -12,3 +12,4 @@ seat. After that, each person takes the assigned seat if it is unoccupied, and o
 seats at random otherwise. What is the probability that the last person to board gets to sit in
 his assigned seat?
 
+![Alt text](N1.png)
